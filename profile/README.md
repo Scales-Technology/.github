@@ -1,4 +1,3 @@
-
 # Scales Technology Solutions
 
 ### Industrial Automation | IoT | ERP Integration | Weighbridge Systems
